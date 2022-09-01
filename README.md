@@ -7,7 +7,9 @@ Deep Structured Kernel Regression" by Gustau Camps-Valls et al.
 
 ## What you will find here:
 
-- A basic implementation in MATLAB of the algorithm: [ISP SimpleR Matlab Toolbox](https://github.com/IPL-UV/simpleR)
+- A basic implementation in MATLAB of the algorithm: 
+    - [Simple code snippets and demos](https://github.com/IPL-UV/SKRR/code)
+    - [Full ISP SimpleR Matlab Toolbox](https://github.com/IPL-UV/simpleR)
 - Additional results. 
 
 ## Cite our work: 

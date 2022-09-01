@@ -16,7 +16,7 @@ Deep Structured Kernel Regression" by Gustau Camps-Valls et al.
 
 You may cite the paper with the following bibitem:
 ```
-@article {Camps-Vall22skrr,
+@article {Camps-Valls22skrr,
   author = {Camps-Valls, Gustau and Campos-Taberner, Manuel and aparra, Valero and Martino, Luca and Mu\~noz-Mar\'i, Jordi},
   title = {Retrieval of Physical Parameters with 
 Deep Structured Kernel Regression},
